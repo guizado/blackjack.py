@@ -1,4 +1,3 @@
 # py_blackjack
 
-A game of blackjack made with the python graphics module.
-#Guilherme Câmara
+A game of blackjack made with the python graphics module. By Guilherme Câmara
