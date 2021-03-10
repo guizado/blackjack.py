@@ -1,3 +1,3 @@
-# py_blackjack
+# My first python project
 
-A game of blackjack made with the python graphics module.
+My first venture into python. A blackjack game made using python's graphics module.
